@@ -1,2 +1,1 @@
-# SALOME-Docker
-A Docker Container to run SALOME
+# Moved to https://github.com/shivanandvp/SALOME-Docker
